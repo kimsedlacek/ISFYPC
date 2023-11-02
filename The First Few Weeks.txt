@@ -1,0 +1,4 @@
+
+
+<img src="\Users\User\Pictures\Puppies\IMG_6654.JPG" height="100">
+<img src="C:\Users\User\Pictures\Puppies\IMG_2394.JPG"
